@@ -1,1 +1,37 @@
-# application
+<head> 
+<center> <u> Sample Application Letter </u> </center>
+</head>
+<body>  
+ 
+</body>
+
+<p> 34 Monday Road  
+Papakura <br>
+09 123 1234 <br>
+<p>18 february 2013 </p>
+peter Famham
+<br>ABC Clothing Ltd <br>
+85 Tuesday Road <p>
+Papakura </p>
+<p>Dear Peter </p>
+<b> Re: Sales Assitant Vacancy (vacancy number 40568 )</b>
+<p> I am writting to apply for the position of sales Assitant at ABC Clothing Ltd, which was advetised on 
+Trade Me on 14 Febuary2013</p>
+I have enclosed my CV to support my Application.it shows that I would bring important skills to the
+ position, including,</p>
+
+<ul> <li> time to management and strong organisational skills</li>
+<li> high-level costumer service and friendly relationship managment</li> 
+<li> cash handing and sales ability </li> 
+<li>motivation and dedication </li>
+ </ul>    
+
+<p>AS a Sales Asstitant at busy shoe store,I have been able to build up a strong foundation of costumer 
+service skill service. Through <br>I have really enjoyed this role. I am looking for a new chellenge in my career .The Sales Asstitant role with ABC Clothing Ltd would<br> offer me a chance to grow and further develop my retail career  
+</p>
+I would enjoye having the opportunity to talk with you more about this position,and how I could use my skills to benift your organisation<br> at an interview .
+<p> Thank you for considering my application .I look forward to hearing from you. 
+</p> <br>Yours sincerely 
+<br>
+<br>
+Lizzie Long  
